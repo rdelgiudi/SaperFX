@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MinesweeperFX:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MinesweeperFX_jar</output-path>
+    <root id="archive" name="MinesweeperFX.jar">
+      <element id="module-output" name="MinesweeperFX" />
+    </root>
+  </artifact>
+</component>
